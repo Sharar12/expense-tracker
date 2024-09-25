@@ -1,0 +1,15 @@
+node_modules/
+.next/
+vendor/
+.env
+.env.backup
+.env.production
+.DS_Store
+Thumbs.db
+*.log
+*.tsbuildinfo
+next-env.d.ts
+/backend/storage/
+/backend/public/build
+/backend/public/hot
+/backend/public/storage
