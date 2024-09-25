@@ -162,3 +162,5 @@ expense-tracker/
 [MIT](LICENSE)
 
 <!-- [2024-09-25] feat: scaffold expense tracker backend models and transactions API -->
+
+<!-- [2024-09-25] feat: create expense logging form with amount, category, and date inputs -->
