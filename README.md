@@ -166,3 +166,5 @@ expense-tracker/
 <!-- [2024-09-25] feat: create expense logging form with amount, category, and date inputs -->
 
 <!-- [2024-10-06] feat: implement monthly income vs expense balance calculation -->
+
+<!-- [2024-10-06] feat: add category breakdown charts and budget limit alerts -->
