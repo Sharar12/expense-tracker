@@ -164,3 +164,5 @@ expense-tracker/
 <!-- [2024-09-25] feat: scaffold expense tracker backend models and transactions API -->
 
 <!-- [2024-09-25] feat: create expense logging form with amount, category, and date inputs -->
+
+<!-- [2024-10-06] feat: implement monthly income vs expense balance calculation -->
