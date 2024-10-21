@@ -168,3 +168,5 @@ expense-tracker/
 <!-- [2024-10-06] feat: implement monthly income vs expense balance calculation -->
 
 <!-- [2024-10-06] feat: add category breakdown charts and budget limit alerts -->
+
+<!-- [2024-10-21] feat: support CSV export of transaction history and receipt notes -->
