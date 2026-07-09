@@ -160,15 +160,3 @@ expense-tracker/
 ## License
 
 [MIT](LICENSE)
-
-<!-- [2024-09-25] feat: scaffold expense tracker backend models and transactions API -->
-
-<!-- [2024-09-25] feat: create expense logging form with amount, category, and date inputs -->
-
-<!-- [2024-10-06] feat: implement monthly income vs expense balance calculation -->
-
-<!-- [2024-10-06] feat: add category breakdown charts and budget limit alerts -->
-
-<!-- [2024-10-21] feat: support CSV export of transaction history and receipt notes -->
-
-<!-- [2024-10-21] style: polish responsive dashboard layout and transaction filter pills -->
